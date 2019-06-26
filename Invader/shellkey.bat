@@ -1,0 +1,2 @@
+"C:\Program Files\OpenSSL-Win64\bin\openssl.exe" genrsa -out D:\Alphabits\InvaderSolution\Invader\download\pvt.key 4096
+"C:\Program Files\OpenSSL-Win64\bin\openssl.exe" rsa -in D:\Alphabits\InvaderSolution\Invader\download\pvt.key -pubout > D:\Alphabits\InvaderSolution\Invader\download\pub.pem
