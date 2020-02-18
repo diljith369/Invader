@@ -9,7 +9,7 @@
 ##### go get github.com/fatih/color
 ##### go get github.com/kbinani/screenshot
 
-##### Download https://github.com/diljith369/Invader.git automatic!
+##### Download https://github.com/diljith369/Invader.git
 
 ### Built With
 #### Go Lang and C Sharp
