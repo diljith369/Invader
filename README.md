@@ -1,6 +1,6 @@
-# Invader  Anti malware analysis framework .
+## AvBuster An anti malware analysis framework .
 
-##### Assess your anti virus using Invader and ensure it blocks Invader binaries.
+##### Assess your anti virus /end point protection using AvBuster and ensure it blocks all AvBuster binaries.
 
 ## Requirements
 ### Dot Net Framework 4.5 
@@ -8,11 +8,11 @@
 ### go get github.com/fatih/color
 ### go get github.com/kbinani/screenshot
 
-##### Download https://github.com/diljithishere/Invader.git
+##### Download https://github.com/diljith369/Invader.git
 
 ### Built With
 #### Go Lang and C Sharp
 
 ### Author
 
-#### * **Diljith S** - *Initial work* - (https://github.com/diljithishere)
+#### * **Diljith S** - *Initial work* - (https://github.com/diljith369)
