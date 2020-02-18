@@ -1,5 +1,5 @@
 ## AvBuster An anti malware analysis framework .
-![Logo](AvBuster/mainimage.png)
+![Logo](https://github.com/diljith369/AvBuster/blob/master/mainimage.PNG)
 ##### Assess your anti virus /end point protection using AvBuster and ensure it blocks all AvBuster binaries.
 
 ## Requirements
