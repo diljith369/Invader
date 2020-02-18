@@ -5,10 +5,11 @@
 ## Requirements
 ### Dot Net Framework 4.5 
 ### Go Lang
-### go get github.com/fatih/color
-### go get github.com/kbinani/screenshot
+#### Go Lang Dependencies
+##### go get github.com/fatih/color
+##### go get github.com/kbinani/screenshot
 
-##### Download https://github.com/diljith369/Invader.git
+##### Download https://github.com/diljith369/Invader.git automatic!
 
 ### Built With
 #### Go Lang and C Sharp
