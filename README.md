@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="460" height="300" src="https://github.com/diljith369/AvBuster/blob/master/mainimage.PNG">
+</p>
 ![Logo](https://github.com/diljith369/AvBuster/blob/master/mainimage.PNG)
 ## AvBuster An anti malware analysis framework .
 ##### Assess your anti virus /end point protection using AvBuster and ensure it blocks all AvBuster binaries.
