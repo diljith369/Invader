@@ -1,9 +1,8 @@
-<p align="center">
-  <img width="400" height="200" src="https://github.com/diljith369/AvBuster/blob/master/mainimage.PNG">
-</p>
-## AvBuster An anti malware analysis framework .
-##### Assess your anti virus /end point protection using AvBuster and ensure it blocks all AvBuster binaries.
+# AvBuster
+<img align="left" width="200" height="100" src="https://github.com/diljith369/AvBuster/blob/master/mainimage.PNG">
+Assess your anti virus /end point protection using `AvBuster` and ensure your safety.
 
+---
 ### Requirements
 #### Dot Net Framework 4.5 
 #### Go Lang
