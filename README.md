@@ -18,6 +18,5 @@ Assess your anti virus /end point protection using AvBuster and ensure your safe
 #### Built With
 ##### Go Lang and C Sharp
 
-#### Author
-
+#### Author 
 ##### * **Diljith S** - *Initial work* - (https://github.com/diljith369)
