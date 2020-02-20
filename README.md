@@ -1,9 +1,9 @@
-### AvBuster
 <img align="left" width="200" height="100" src="https://github.com/diljith369/AvBuster/blob/master/mainimage.PNG">
+```
 Assess your anti virus /end point protection using `AvBuster` and ensure your safety.
+```
 
 ---
-
 ### Requirements
 #### Dot Net Framework 4.5 
 #### Go Lang
