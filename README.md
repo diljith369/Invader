@@ -12,8 +12,9 @@ Assess your anti virus /end point protection using AvBuster and ensure your safe
 
 ##### Download https://github.com/diljith369/Invader.git
 <p align="center">
-  <img width="460" height="300" src="https://github.com/diljith369/AvBuster/blob/master/screen1.png">
+  <img width="600" height="300" src="https://github.com/diljith369/AvBuster/blob/master/screen1.png">
 </p>
+ 
 #### Built With
 ##### Go Lang and C Sharp
 
