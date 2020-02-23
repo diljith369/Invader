@@ -12,7 +12,7 @@ Assess your anti virus /end point protection using AvBuster and ensure your safe
 
 ### Curently Supporing Shell Types
 #### •	Normal Reverse Shell 
-#### •	HTTP Scan Jotti 
+#### •	HTTP 
 #### •	HTTPS
 #### •	Encrypted(Hybrid)
 ### Microsoft Shells
