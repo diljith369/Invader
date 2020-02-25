@@ -1949,11 +1949,11 @@ func decryptconnection(keyval, texttodecrypt string) string {
                 pinfo.FileName = "cmd.exe";
                 if (!isManager)
                 {
-                    pinfo.Arguments = "/k go build " + "-o " + Directory.GetParent(filename).FullName + @"\" + agentname + ".exe" + " " + filename;
+                    pinfo.Arguments = "/c go build " + "-o " + Directory.GetParent(filename).FullName + @"\" + agentname + ".exe" + " " + filename;
                 }
                 else
                 {
-                    pinfo.Arguments = "/k go build " + "-o " + Directory.GetParent(filename).FullName + @"\" + agentname + "Listener" + ".exe" + " " + filename;
+                    pinfo.Arguments = "/c go build " + "-o " + Directory.GetParent(filename).FullName + @"\" + agentname + "Listener" + ".exe" + " " + filename;
 
                 }
 
